@@ -1,5 +1,5 @@
 # Final Fantasy Not VIII: Homework Edition ![Black Mage](https://github.com/ahroria/CS2110-HW08/blob/main/images/blackmage.png)
-Final Fantasy Not VIII is a homework submission for Georgia Tech's CS2110 Spring 2022 HW 08.
+assignment for CS 2110 @ GT Spring 2022
 
 
 ## Game Information
